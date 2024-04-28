@@ -1,0 +1,19 @@
+current directory: /Users/mizukinakamura/dev/todo-list-app/backend/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/mizukinakamura/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/mizukinakamura/dev/todo-list-app/backend/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240428-28021-kox9ic sitelibdir\=./.gem.20240428-28021-kox9ic clean
+
+current directory: /Users/mizukinakamura/dev/todo-list-app/backend/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240428-28021-kox9ic sitelibdir\=./.gem.20240428-28021-kox9ic
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/mizukinakamura/dev/todo-list-app/backend/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240428-28021-kox9ic sitelibdir\=./.gem.20240428-28021-kox9ic install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240428-28021-kox9ic/debug
+
+current directory: /Users/mizukinakamura/dev/todo-list-app/backend/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240428-28021-kox9ic sitelibdir\=./.gem.20240428-28021-kox9ic clean
